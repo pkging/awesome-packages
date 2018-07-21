@@ -22,6 +22,16 @@
 - [Make your own Gem](https://guides.rubygems.org/make-your-own-gem/)
 - [Publish your Gem](https://guides.rubygems.org/publishing/)
 
+## Python
+
+#### package managers
+- [PyPI](https://pypi.org/)
+
+#### books
+- [How To Package Your Python Code](http://python-packaging.readthedocs.io)
+
+#### guides
+- [Creating Your First Python Package](https://medium.com/38th-street-studios/creating-your-first-python-package-181c5e31f3f8)
 
 
 
